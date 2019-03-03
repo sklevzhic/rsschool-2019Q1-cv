@@ -3,9 +3,13 @@
 # Alexander Klevzhits
 
 ## Contacts:
-Phone: +375297559056
-E-mail: sklevzhic@gmail.com
-Telegram: @sklevzhic
+
+|               |               |
+| ------------- | ------------- |
+| Phone         | +375297559056 |
+| E-mail        | sklevzhic@gmail.com  |
+| Telegram      | @sklevzhic    |
+
 
 ## Summary:
 
@@ -19,7 +23,7 @@ Lack or gaps in knowledge compensate for the desire to study the necessary techn
     CMS: Wordpress
 
 ## Code example:
-    https://sklevzhic.github.io/CV-Portfoilio/
+    [https://sklevzhic.github.io/CV-Portfoilio/](https://sklevzhic.github.io/CV-Portfoilio/)
 
 
 
